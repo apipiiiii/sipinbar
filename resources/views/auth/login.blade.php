@@ -39,10 +39,4 @@
 
 <p class="mt-5 text-center text-sm text-slate-500">Siswa belum punya akun? <a href="{{ route('register') }}" class="link">Daftar sekarang</a></p>
 
-<div class="mt-6 rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-xs leading-relaxed text-slate-500">
-    <p class="mb-1 font-semibold text-slate-600">Akun demo</p>
-    Admin: admin@sipinbar.sch.id / admin123<br>
-    Petugas: petugas.lab@sipinbar.sch.id / petugas123<br>
-    Siswa: rafif.bari@siswa.sipinbar.sch.id / siswa123
-</div>
 @endsection

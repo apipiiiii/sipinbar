@@ -1,2 +1,0 @@
-<span class="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-brand-600 text-white"><i class="fa-solid fa-boxes-stacked text-[13px]"></i></span>
-<?php /**PATH C:\xampp\htdocs\sipinbar-laravel_FINAL_petugas_v6_3\sipinbar-laravel_neww\resources\views/layouts/partials/brand.blade.php ENDPATH**/ ?>
